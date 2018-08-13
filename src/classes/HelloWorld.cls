@@ -4,5 +4,9 @@ public with sharing class HelloWorld {
 
 		Account acct = new Account();
 		acct.Name = 'newAccount';
+
+
+		insert acct;
+		//add comment
 	}
 }
