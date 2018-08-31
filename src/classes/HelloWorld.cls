@@ -1,5 +1,5 @@
 public with sharing class HelloWorld {
     public HelloWorld() {
-        System.debug('Hello Dreamforce 3000');
+        System.debug('Hello World');
     }
 }
